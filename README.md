@@ -1,0 +1,2 @@
+# SchoolManagementSystem-
+java and sql
